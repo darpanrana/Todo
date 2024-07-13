@@ -5,12 +5,8 @@ A simple and intuitive Todo application built with Laravel.
 ## Table of Contents
 
 - [Features](#features)
-- [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Running Tests](#running-tests)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -82,4 +78,3 @@ A simple and intuitive Todo application built with Laravel.
     - Mark tasks as complete or incomplete by clicking the checkbox.
     - Edit tasks by clicking the "Edit" button.
     - Delete tasks by clicking the "Delete" button.
-
